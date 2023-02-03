@@ -1,1 +1,5 @@
-O intuito é registrar meus planos de testes do site Alura Pic
+# O intuito é registrar meus testes automatizados
+
+Site de teste: AluraPic 
+
+Ferramenta: Cypress 
