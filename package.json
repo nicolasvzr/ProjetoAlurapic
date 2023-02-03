@@ -1,0 +1,19 @@
+{
+  "name": "projetotestes",
+  "version": "1.0.0",
+  "description": "Criar e registrar testes ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasvzr/ProjetoAlurapic.git"
+  },
+  "author": "Nicolas Vaz (nicolasvaz@outlook.com.br)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasvzr/ProjetoAlurapic/issues"
+  },
+  "homepage": "https://github.com/nicolasvzr/ProjetoAlurapic#readme"
+}
