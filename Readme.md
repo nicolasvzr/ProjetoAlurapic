@@ -1,0 +1,1 @@
+O intuito é registrar meus planos de testes do site Alura Pic
