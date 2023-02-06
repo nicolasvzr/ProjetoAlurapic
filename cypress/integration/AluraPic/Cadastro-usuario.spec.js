@@ -1,4 +1,4 @@
-describe('acessar o login e senha do usuário', () => {
+describe('informações de cadastro errado', () => {
 
     beforeEach(()   => {
         cy.visit('http://alura-fotos.herokuapp.com/') 
