@@ -8,7 +8,7 @@ Ferramenta: Cypress
 
 Linguagem: Javascript
 
-Cenários testados no momento:
+# Cenários testados no momento:
 - Login 
 
 Comportamento esperado: Ao digitar o nome e a senha o usuário deverá ser direcionado para proxima tela
