@@ -1,6 +1,8 @@
 # O intuito é registrar meus testes automatizados na plataforma Web
 
-Status do projeto: em desenvolvimento
+<p align="center">
+  Status do projeto: em desenvolvimento
+</p>
 
 Site de teste: AluraPic (http://alura-fotos.herokuapp.com/#/home)
 
@@ -8,7 +10,7 @@ Ferramenta: Cypress
 
 Linguagem: Javascript
 
-# Cenários testados no momento:
+# :hammer: Cenários testados no momento:
 - Login 
 
 Comportamento esperado: Ao digitar o nome e a senha o usuário deverá ser direcionado para proxima tela
