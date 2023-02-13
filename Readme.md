@@ -1,14 +1,18 @@
-# O intuito é registrar meus testes automatizados na plataforma Web
+# Testes automatizados na plataforma Web
 
 <p align="center">
   Status do projeto: em desenvolvimento
 </p>
 
-Site de teste: AluraPic (http://alura-fotos.herokuapp.com/#/home)
+# Descrição
 
-Ferramenta: Cypress 
+- O intuito é registrar os testes de front e backend
 
-Linguagem: Javascript
+- Site de teste: AluraPic (http://alura-fotos.herokuapp.com/#/home)
+
+- Ferramenta: Cypress 
+
+- Linguagem: Javascript
 
 # :hammer: Cenários testados no momento:
 - Login 
