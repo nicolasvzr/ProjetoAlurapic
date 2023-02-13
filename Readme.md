@@ -5,6 +5,7 @@ Status do projeto: em desenvolvimento
 Site de teste: AluraPic (http://alura-fotos.herokuapp.com/#/home)
 
 Ferramenta: Cypress 
+
 Linguagem: Javascript
 
 Cenários testados no momento:
