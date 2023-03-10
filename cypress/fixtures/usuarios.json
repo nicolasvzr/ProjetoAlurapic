@@ -1,0 +1,21 @@
+[
+
+    {
+        "email" : "dean.winchester@spn.com",
+        "fullName" : "Dean Winchester",
+        "userName" : "Dean",
+        "password" : "Winchester"
+    },
+    {
+        "email" : "castiel.anjo@spn.com",
+        "fullName" : "Castiel Anjo",
+        "userName" : "Castiel",
+        "password" : "anjo"
+    },
+    {
+        "email" : "sammy.winchester@spn.com",
+        "fullName" : "Sam Winchester",
+        "userName" : "Sam",
+        "password" : "sammy"
+    }
+    ]
