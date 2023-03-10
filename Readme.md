@@ -1,7 +1,7 @@
 # Testes automatizados na plataforma Web
 
-<p align="center">
-  Status do projeto: em desenvolvimento
+<p> 
+    Status do projeto: concluído 
 </p>
 
 # Descrição
@@ -14,7 +14,7 @@
 
 - Linguagem: Javascript
 
-# :hammer: Cenários testados no momento:
+# :hammer: Alguns Cenários testados:
 - Login 
 
 Comportamento esperado: Ao digitar o nome e a senha o usuário deverá ser direcionado para proxima tela
